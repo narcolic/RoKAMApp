@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoKAM", "RoKAM\RoKAM.csproj", "{70BACAAB-1D91-46B9-BC6F-A142CFC51D6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoKAMWeb", "RoKAM\RoKAMWeb.csproj", "{70BACAAB-1D91-46B9-BC6F-A142CFC51D6C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoKAMDataManager", "RoKAMDataManager\RoKAMDataManager.csproj", "{6A2EB287-6A06-4A25-8FD1-ED6330BF9BA0}"
 EndProject
